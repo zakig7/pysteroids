@@ -16,3 +16,4 @@ wheels/
 mistakes.md
 *.txt
 *.jsonl
+.vscode
