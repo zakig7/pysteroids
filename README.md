@@ -44,3 +44,18 @@ A simple Asteroids-like game implemented in Python as a hobby mini-project to ge
 ## Logging
 
 The game uses a simple logging system to record game states and events, stored in `game_state.jsonl` and `game_events.jsonl` respectively. The logs can be used for simple debugging or replaying game sessions.
+
+## Extending The Project
+
+- [ ] Add a scoring system
+- [ ] Implement multiple lives and respawning
+- [ ] Add an explosion effect for the asteroids
+- [ ] Add acceleration to the player movement
+- [ ] Make the objects wrap around the screen instead of disappearing
+- [ ] Add a background image
+- [ ] Create different weapon types
+- [ ] Make the asteroids lumpy instead of perfectly round
+- [ ] Make the ship have a triangular hit box instead of a circular one
+- [ ] Add a shield power-up
+- [ ] Add a speed power-up
+- [ ] Add bombs that can be dropped
